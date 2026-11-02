@@ -37,8 +37,7 @@ public class ElectricalBike extends Bike {
         System.out.println("Bike model: " + model);
         System.out.println("Bike brand: " + brand);
         System.out.println("Bike price: " + price);
-        System.out.println("Battery Capacity: "
-                           + batteryCapacity);
+        System.out.println("Battery Capacity: " + batteryCapacity);
     }
 
     public static void main(String[] args) {
